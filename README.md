@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 <br>
 
 
-- Un apasionado desarrollador front-end autodidacta
-- Fotografo 
-- Diseño Grafico
+- Un apasionado por el Desarollo Multiplataforma
+- Diseño Android (Kotlin)
+- Tecnico de redes y Administración de Base de datos
+- Fotografo (CANON)
+- Diseño Grafico (ADOBE)
 
 <br><br>
 
